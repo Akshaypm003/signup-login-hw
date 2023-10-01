@@ -14,7 +14,7 @@ body{
     font-family:  -apple-system,system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.signup{
+/* .signup{
     border: 2px solid white;
     padding: 20px;
     border-radius: 10px;
@@ -22,7 +22,7 @@ body{
 }
 
 .signup input {
-    margin: 10px 10px 10px 0;
+    margin: 10px 10px 10px 0
     padding: 8px;
     font-size: 20px;
     width: 400px;
@@ -44,4 +44,4 @@ body{
     font-size: 30px;
     text-align: center;
     padding-block: 10px;
- }
+ } */
